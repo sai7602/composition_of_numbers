@@ -1,3 +1,29 @@
 <resources>
-    <string name="app_name">composition_of_numbers</string>
+    <string name="app_name">Склад числа</string>
+    <string name="question_mark">\?</string>
+    <string name="welcome_title">Склад числа</string>
+    <string name="game_rules">
+        Правила гри: перед вами буде три фігури, дві знизу и одна зверху, в двох з них будуть
+        числа. Необхідно, щоб сума чисел з двух нижніх фігур була рівна числу в верхній фігуре,
+        для цього потрібно вставити потрібне число.\n\nПриклад: в верхньому колі число 7, в одному
+        з нижніх знак питання, а в другому число 4. Значить на месте  знаку питання повинно
+        бути число 3, тому що 3 + 4 = 7
+    </string>
+    <string name="button_understand">Зрозуміло</string>
+    <string name="welcome_logo">Welcome logo</string>
+    <string name="choose_level_title">Виберіть рівень:</string>
+    <string name="easy_level">Легкий</string>
+    <string name="normal_level">Середній</string>
+    <string name="hard_level">Складний</string>
+    <string name="test_level">Тестовий</string>
+    <string name="game_over">Game Over</string>
+    <string name="score_answers">Ваш рахунок: %s</string>
+    <string name="score_percentage">Відсоток правильних відповідей: %s</string>
+    <string name="retry">Спробувати знову</string>
+    <string name="right_answers">Правильних відповідей %s з %s необхідних</string>
+    <string name="required_percentage">Необхідний відсоток правильних відповідей: %s</string>
+    <string name="required_score">Необходна кількість вірних відповідей: %s</string>
+    <string name="progress_answers">Правильних відповідей %s (мінімум %s)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
